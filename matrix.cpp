@@ -44,3 +44,4 @@ void show(int *a, int rows, int cols) //// this function shows all the elements 
 
 	printf("\n}\n");
 }//commit test
+//test!@!@!@
